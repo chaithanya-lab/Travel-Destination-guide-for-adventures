@@ -184,4 +184,4 @@
 </script>
 
 </body>
-</html># Travel-Destination-guide-for-adventures
+</html>
