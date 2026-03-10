@@ -28,3 +28,8 @@ Users can select a destination, travel date, and trip duration to generate a day
 ---
 
 ## 📂 Project Structure
+## 🌐 Live Demo
+
+Click here to open the website:
+
+👉 [Open Global Adventure AI](https://your-website-link.com)
