@@ -32,4 +32,4 @@ Users can select a destination, travel date, and trip duration to generate a day
 
 Click here to open the website:
 
-👉 [Open Global Adventure AI](https://your-website-link.com)
+👉 [Open Global Adventure AI](https://chaithanya-lab.github.io/Travel-Destination-guide-for-adventures/)
